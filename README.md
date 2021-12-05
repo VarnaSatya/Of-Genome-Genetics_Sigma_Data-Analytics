@@ -1,4 +1,4 @@
-# Of-Genome-Genetics_Sigma_Data-Analytics
+# Of-Genome-Genetics_Sigma Data-Analytics
 
 Predicting genetic disorder and disorder subclass based on familial history and its effects
 
