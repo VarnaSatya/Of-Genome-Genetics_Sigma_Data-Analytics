@@ -11,8 +11,8 @@ Link to dataset: [Of Genome Genetics](https://www.kaggle.com/aryarishabh/of-geno
 
 
 ## Team Members 
-B Pravena
-<br/>Lavanya Yavagal
-<br/>Swarnamalya A S
-<br/> Varna Satyanarayana
+B Pravena - PES2UG19CS076
+<br/>Lavanya Yavagal - PES2UG19CS904
+<br/>Swarnamalya A S - PES2UG19CS418
+<br/> Varna Satyanarayana - PES2UG19CS448
 
